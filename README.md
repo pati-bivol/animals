@@ -1,10 +1,10 @@
 # README for Animals Script
 
 ## Author Information
-- **Name:** [Your Full Name]
-- **Course:** [Course Number and Name]
+- **Name:** Patricia Bivol
+- **Course:** 298-01
 - **Assignment:** Animals Script – Case Statement
-- **Date:** [Date of Completion]
+- **Date:** 1/22/26
 
 ## Program Description
 [Write 2-3 sentences in your own words describing what this script does and its purpose. Explain how it classifies animals and how the program continues to run until the user types "Goodbye".]
@@ -35,10 +35,18 @@ To test with an input file (for example, `animals-input`):
 - How the loop exits when "Goodbye" is entered
 
 ## Testing Results
-[Describe your testing process and results. Include:]
-- Example valid inputs you tested (at least three, including “DOG”, “CAT”, “TIGER”)
-- Example invalid inputs and why they produce “unknown animal”
-- How you used the animals-input file to test
+Enter an animal in all capital letters:
+domestic animal
+Enter an animal in all capital letters:
+domestic animal
+Enter an animal in all capital letters:
+wild animal
+Enter an animal in all capital letters:
+unknown animal
+Enter an animal in all capital letters:
+unknown animal
+Enter an animal in all capital letters:
+Goodbye
 
 ## Challenges and Solutions
 [Optional: Describe any challenges you encountered while creating this script and how you solved them. This could include debugging issues, understanding case statements, or Git workflow problems.]
